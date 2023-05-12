@@ -1,0 +1,5 @@
+Hi, Add file,stagging/indexing file. 
+
+commiting file. 
+
+pushing file.
